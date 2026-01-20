@@ -2,9 +2,9 @@
 
 ## Objective:
 
--Exploratory data analysis
--Binary classification modeling
--Analytical SQL queries
+- Exploratory data analysis
+- Binary classification modeling
+- Analytical SQL queries
 
 ## Dataset:
 
@@ -16,8 +16,8 @@ The analysis follows a structured workflow:
 
  ### 1. Exploratory Data Analysis (EDA)
  
-  -Inspection of feature distributions and variability
-  -Identification of patterns and differences across diagnostic groups
+  - Inspection of feature distributions and variability
+  - Identification of patterns and differences across diagnostic groups
 
  ### 2. Binary Classification Model
  
@@ -34,19 +34,21 @@ The analysis follows a structured workflow:
 
 ## Key Findings
 
--Malignant cases tend to show higher values in size-related features compared to benign cases.
--The classification model demonstrates strong predictive performance, with high accuracy and ROC–AUC.
--SQL aggregations and rankings reinforce consistent differences between diagnostic groups.
+- Malignant cases tend to show higher values in size-related features compared to benign cases.
+- The classification model demonstrates strong predictive performance, with high accuracy and ROC–AUC.
+- SQL aggregations and rankings reinforce consistent differences between diagnostic groups.
 
 ## Tools and Technologies
 
--Python (pandas, NumPy, scikit-learn)
--SQLite
--SQL (aggregation, grouping, ordering)
--Google Colab
+- Python (pandas, NumPy, scikit-learn)
+- SQLite
+- SQL (aggregation, grouping, ordering)
+- Google Colab
 
 ## Notes
 
 This project focuses on demonstrating data handling, analytical reasoning, SQL integration, and basic machine learning modeling, rather than clinical interpretation.
+
+[View the Jupyter Notebook](./Breast_cancer_analysis.ipynb)
 
 
